@@ -147,6 +147,4 @@ https://github.com/SATHISHV10
 
 This project is licensed under the MIT License.
 
-## OUTPUT :
 
-http://127.0.0.1:5000
